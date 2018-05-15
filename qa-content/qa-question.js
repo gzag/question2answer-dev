@@ -18,7 +18,7 @@
 
 	More about this license: http://www.question2answer.org/license.php
 */
-
+//queste cose sono state modificate
 var qa_element_revealed = null;
 
 function qa_toggle_element(elem)
